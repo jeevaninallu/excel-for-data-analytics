@@ -41,4 +41,21 @@ In this file I learned copying data between different workbooks:
 
 ---
 
+### Excel_4_Ribbon
+
+In this file I learned about Ribbon → Home tab and its groups.
+
+Groups covered:
+
+Clipboard
+Font
+Alignment
+Number
+Editing
+
+Not learned yet (will learn in Advanced Excel):
+
+Styles
+Cells
+
 More practice files will be added as I continue learning Excel.
